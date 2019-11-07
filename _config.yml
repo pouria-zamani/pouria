@@ -13,13 +13,13 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "پوررنگ آتشی"
+title                    : "Pouria Zamani"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Pouria" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
   username               : sauleh.eetemadi
   app_id                 :
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Poorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm an assistant professor of Computer Science at IUST. I enjoy learning new things and sharing what I know with others. So far I've learned some science, math, computers, NLP, IT, BJJ, MMA, swimming, diving, flying... 
+  name             : "Pouria Zamani"
+  avatar           : "/assets/images/bio-photo.jfif"
+  bio              : I'm CE student in IUST   
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : pouriaxz2001@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  github: pouria-zamani
+  instagram: pouria_zam
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

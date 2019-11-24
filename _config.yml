@@ -301,4 +301,4 @@ defaults:
       share: true
       related: true
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight

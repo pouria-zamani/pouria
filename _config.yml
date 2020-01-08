@@ -117,6 +117,7 @@ author:
   google_scholar: Q25s5KkAAAAJ
   github: pouria-zamani
   instagram: pouria_zam
+  Calendly: pouriaxz2001
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -136,6 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Calendly"
+      icon: "fab fa-fw fa-calendly"
+      # url: "https://calendly.com/"
 
 # Site Footer
 footer:

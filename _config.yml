@@ -138,7 +138,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      # url: "https://calendly.com/pouriaxz2001"
+      url: "http://calendly.com/pouriaxz2001"
 
 # Site Footer
 footer:
@@ -163,8 +163,8 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      # url: "https://calendly.com/pouriaxz2001"
-
+      url: "http://calendly.com/pouriaxz2001"
+      
 # Reading Files
 include:
   - .htaccess
